@@ -1,0 +1,21 @@
+# Python virtual environments
+.env
+.venv
+env/
+venv/
+
+# Conda environments
+.envs/
+conda-env/
+conda/
+outlier_env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+
+# VS Code
+.vscode/
